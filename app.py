@@ -1,4 +1,5 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
+
 def greetings():
     print "Hello RESIF people"
 
