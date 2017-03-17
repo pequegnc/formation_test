@@ -3,6 +3,7 @@
 def greetings():
     """Salut RESIF"""
     print("Hello RESIF people")
+    print("On est vendredi, ca avance")
 
 def repeat(x, callback):
     """Call x time"""
